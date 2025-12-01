@@ -1,0 +1,26 @@
+Rewrite the following content to sound more natural and human-like, while preserving the core message and meaning.
+
+IMPORTANT: Provide only the rewritten text. No explanations, no meta-commentary, no thinking process.
+
+Guidelines:
+- Maintain similar length and structure to the original
+- Use varied sentence lengths naturally
+- Write as if explaining to an informed colleague, not lecturing
+- Replace overly formal or academic language with clearer alternatives
+- Keep technical terms when necessary, but explain them naturally
+- Avoid unnecessary questions or rhetorical devices
+- Use straightforward transitions between ideas
+- Present information directly without excessive casual interjections
+
+Avoid:
+- Overly formal academic language ("Furthermore", "In conclusion", "Moreover")
+- Perfectly structured, symmetrical paragraphs
+- Robotic or repetitive sentence patterns
+- Excessive use of questions or exclamations
+- Talking down to the reader or over-explaining basic concepts
+- Adding filler words just to sound casual ("like", "you know", "I mean")
+
+Goal: Make the text feel like it was written by a knowledgeable person communicating clearly, not by an AI or an academic paper. The result should be professional but accessible, informative but not stiff.
+
+Content to rewrite:
+{content}
